@@ -107,7 +107,7 @@ seo:
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
-      value: website
+      value: website.com/hello
       keyName: property
     - name: 'og:title'
       value: Stackbit Azimuth Theme
